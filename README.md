@@ -6,7 +6,7 @@
 
 ### 🛠 Stack
 * JS, HTML, CSS
-* React, Redux, Axios, React-Redux, Redux-tunck
+* React, Redux, Axios, React-Redux, Redux-tunck, css-modules
 
 ### 💬 Get in touch
 * VK: [Kirill Balahoncev](https://vk.com/didok_98)

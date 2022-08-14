@@ -1,5 +1,9 @@
 ### Hi there 👋 I'm Kirill
 
+### 📚 Education
+* Bachelor Degree (2016 - 2020) - Trekhgorny Technological Institute National Research Nuclear University Moscow Engineering Physics Institute, TTI NRNU MEPI
+* Master Degree (2020 - 2022) - National Research Tomsk Polytechnic University, TPU
+
 ### 🛠 Stack
 * JS, HTML, CSS
 * React, Redux, Axios, React-Redux, Redux-tunck

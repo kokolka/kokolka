@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I'm Kirill
+
+### 🛠 Stack
+* JS, HTML, CSS
+* React, Redux, Axios, React-Redux, Redux-tunck
+
+### 💬 Get in touch
+* VK: [Kirill Balahoncev](https://vk.com/didok_98)
+* Whatsapp: [Kirill Balahoncev](https://wa.me/79514837906)
+* email: [kirill-i_98@mail.ru](kirill-i_98@mail.ru)
 
 <!--
 **kokolka/kokolka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

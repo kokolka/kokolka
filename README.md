@@ -5,7 +5,7 @@
 * Master Degree (2020 - 2022) - National Research Tomsk Polytechnic University, TPU
 
 ### 🛠 Stack
-* JS, HTML, CSS
+* JS, HTML, CSS, TypeScript
 * React, Redux, Axios, React-Redux, Redux-tunck, css-modules
 
 ### 💬 Get in touch
